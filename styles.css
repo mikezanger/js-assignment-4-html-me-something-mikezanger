@@ -1,1 +1,38 @@
-/* Write your CSS here! */
+h2.titleColor{
+    color: red;
+    font-size: 45px;
+    font-weight: bolder;
+    padding-top: 70px;
+  }
+
+body{
+    margin: 8px;
+    display: block;
+    padding: auto;
+    background-color: black;
+  }
+
+#mainHeading {
+    color: red;
+    font-size: 65px;
+    
+  }
+
+p.funParagraph{
+    color:green
+}
+
+header{
+    font-size: large;
+    text-align: center
+      
+}
+
+p{
+    padding: 25px 50px 75px 100px;
+    font-size: 20px;
+    color: antiquewhite;
+    text-align: center;
+}
+
+
